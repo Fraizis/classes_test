@@ -14,6 +14,7 @@ class Circle:
         return isinstance(radius, (int, float)) and radius > 0
 
 
+
 class Counter:
     total_count = 0
 
