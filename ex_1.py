@@ -55,5 +55,3 @@ acc.add_transaction(Transaction(50, "Пополнение"))
 print(acc.balance)
 print(len(acc))
 acc.add_transaction(Transaction(-200, "Покупка"))
-
-print()

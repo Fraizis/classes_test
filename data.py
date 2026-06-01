@@ -50,5 +50,3 @@ class Person:
 if __name__ == '__main__':
     p = Person('dfghhg')
     print(p.person_think())
-
-    print()
